@@ -1,10 +1,6 @@
 .container {
     display: flex;
-    height: 500;
-}
-
-.column1{
-height: 200px;
+    height: 900;
 }
 
 .footer {
