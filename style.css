@@ -5,12 +5,12 @@
 .column1{
 height: 500px;
 width: 25%;
-background-color:whitesmoke;
+background-color:#7b868c;
 }
 
 .column2{
  width: 75%;
- background-color:#7b868c;
+ background-color:white;
 }
 
 .footer {
