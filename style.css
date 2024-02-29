@@ -1,6 +1,9 @@
 .container {
     display: flex;
-    height: 900;
+}
+
+.column1{
+height: 500px;
 }
 
 .footer {
