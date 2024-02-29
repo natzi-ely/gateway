@@ -1,10 +1,13 @@
 .container {
     display: flex;
 }
-.column {
-    flex: 1;
-    padding: 10px;
+
+.column1{
+height: 700;
+flex: 1;
+padding: 10px;
 }
+
 .footer {
     text-align: center;
     background-color: #2c56c1;
