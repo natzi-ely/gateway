@@ -1,3 +1,12 @@
-.footer{
-background-color: blue;
+.container {
+    display: flex;
+}
+.column {
+    flex: 1;
+    padding: 10px;
+}
+.footer {
+    text-align: center;
+    background-color: #2c56c1;
+    padding: 10px;
 }
