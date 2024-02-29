@@ -18,3 +18,7 @@ background-color:whitesmoke;
     color: white;
     padding: 20px; 
 }
+
+.row{
+    display: inline-block
+}
