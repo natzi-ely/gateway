@@ -2,13 +2,13 @@
     display: flex;
 }
 
-.column1{
+.nat1{
 height: 500px;
 width: 40%;
 background-color:rgba(245, 245, 245, 0.711);
 }
 
-.column2{
+.nat2{
  width: 60%;
  background-color:white;
 }
