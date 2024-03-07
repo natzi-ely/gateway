@@ -3,14 +3,14 @@
 }
 
 .nat1{
-height: 650px;
+height: 80%;
 width: 40%;
 background-color:rgba(245, 245, 245, 0.602);
 }
 
 .nat2{
  width: 60%;
- height: 650px;
+ height: 80%;
  background-color:white;
 }
 
@@ -18,6 +18,7 @@ background-color:rgba(245, 245, 245, 0.602);
     background-color: #0032a1;
     color: white;
     padding: 20px; 
+    height: 20%S;
 }
 
 .row{
